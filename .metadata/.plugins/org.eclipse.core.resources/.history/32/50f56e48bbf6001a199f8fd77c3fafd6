@@ -1,0 +1,5 @@
+package com.fiances.minhasfinancas.exception;
+
+public class RegraNegocioException extends RuntimeException {
+	
+}
