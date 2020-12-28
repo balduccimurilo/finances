@@ -1,5 +1,0 @@
-package com.fiances.minhasfinancas.exception;
-
-public class ErroAutenticacao {
-
-}
